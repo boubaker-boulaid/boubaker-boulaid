@@ -1,4 +1,4 @@
-##Hi 👋, I'm Boubaker Boulaid
+Hi 👋, I'm Boubaker Boulaid
 ## Full Stack Developer Passionate about building modern and scalable web applications.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boubaker-boulaid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boubakerboulaid205@gmail.com) 
