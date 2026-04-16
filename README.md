@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Full Stack Web Developer with a passion for turning ideas into real-world, high-performance applications. Focused on clean code, modern architectures, and seamless user experiences. Currently deepening expertise in advanced full-stack development and system design.
+Full Stack Web Developer with a passion for turning ideas into real-world, high-performance applications. Focused on clean code, modern architectures, and seamless user experiences. Currently deepening expertise in advanced full-stack development.
 
 ## Contact
 
