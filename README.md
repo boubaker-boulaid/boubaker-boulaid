@@ -36,8 +36,8 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
 
 ## GitHub Activity
 
-![Boubaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=boubaker-boulaid&show_icons=true&theme=default)
+![Boubaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=boubaker-boulaid&show_icons=true&theme=midnight-purple)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boubaker-boulaid&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boubaker-boulaid&layout=compact&theme=midnight-purple)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=boubaker-boulaid)
+![GitHub Streak](https://streak-stats.demolab.com?user=boubaker-boulaid&theme=midnight-purple)
