@@ -32,3 +32,12 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
 
 - Building clean, efficient, and user-friendly web experiences
 - Mastering advanced full-stack architectures and cloud-native patterns
+
+
+## GitHub Activity
+
+![Boubaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=boubaker-boulaid&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boubaker-boulaid&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=boubaker-boulaid)
