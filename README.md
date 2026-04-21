@@ -31,7 +31,7 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
 ## Current Focus
 
 - Building clean, efficient, and user-friendly web experiences
-- Mastering advanced full-stack architectures and cloud-native patterns
+- Mastering advanced full-stack architectures .
 
 
 ## GitHub Activity
