@@ -9,7 +9,7 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
 ## Contact
 
 - **Email**: [boubakerboulaid205@gmail.com](mailto:boubakerboulaid205@gmail.com)
-- **LinkedIn**: [linkedin.com/in/boubaker-boulaid-7617aa3a9](https://www.linkedin.com/in/boubaker-boulaid/)
+- **LinkedIn**: [https://www.linkedin.com/in/boubaker-boulaid/](https://www.linkedin.com/in/boubaker-boulaid/)
 
 ## Technical Skills
 
