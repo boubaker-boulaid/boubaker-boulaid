@@ -2,7 +2,9 @@
   <img src="assets/1795639023213_1015389.jpg" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">Boubaker Boulaid</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2800&pause=900&color=E11D48&center=true&vCenter=true&width=700&height=70&lines=Boubaker+Boulaid;%3E_+Boubaker+Boulaid" alt="Boubaker Boulaid" />
+</h1>
 
 <p align="center">
   <b>Full Stack Web Developer</b> — Building scalable, efficient, and user-centric web applications.
@@ -17,26 +19,36 @@
 Full Stack Web Developer with a passion for turning ideas into real-world, high-performance applications. Focused on clean code, modern architectures, and seamless user experiences. Currently deepening expertise in advanced full-stack development.
 
 - :office: Diploma in **[Digital Development – Full Stack Web](https://www.ofppt.ma/)** (OFPPT – ISTA Mirleft)
-- :rocket: Shipped a **47-endpoint REST API** to production for a wholesale distributor during my internship
 - :shield: I care about **security & testing**: Sanctum auth, RBAC, rate limiting, Pest/PHPUnit, GitHub Actions CI
-- :globe_with_meridians: Built products in **English, French & Arabic**
 - :round_pushpin: Agadir region, Morocco — **open to remote and relocation**
 
 <h2 align="left" id="social">Connect With Me</h2>
 
 > You can reach me in the following ways.
 
-[<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white">](https://www.linkedin.com/in/boubaker-boulaid/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:boubakerboulaid205@gmail.com) [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">](https://boubakerboulaid.vercel.app) [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/boubaker-boulaid)
+[<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white">](https://www.linkedin.com/in/boubaker-boulaid/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:boubakerboulaid205@gmail.com) [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">](https://boubakerboulaid.vercel.app)
 
 <h2 align="left" id="pin">Pinned Repositories</h2>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/boubaker-boulaid/FlowSync"><img src="assets/flowsync.svg" width="100%" alt="FlowSync" /></a>
+      <a href="https://github.com/boubaker-boulaid/FlowSync">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=boubaker-boulaid&repo=FlowSync&border_color=30363D&theme=dracula&show_icons=true&icon_color=E11D48&title_color=E11D48&border_radius=0&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=boubaker-boulaid&repo=FlowSync&theme=buefy&border_color=D0D7DE&show_icons=true&title_color=B91C1C&icon_color=B91C1C&border_radius=0&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=boubaker-boulaid&repo=FlowSync&theme=buefy&border_color=D0D7DE&show_icons=true&title_color=B91C1C&icon_color=B91C1C&border_radius=0&bg_color=00000000&hide_border=true" alt="FlowSync" />
+        </picture>
+      </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/boubaker-boulaid/perfume-online-shop"><img src="assets/perfume.svg" width="100%" alt="Perfume Online Shop" /></a>
+      <a href="https://github.com/boubaker-boulaid/perfume-online-shop">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=boubaker-boulaid&repo=perfume-online-shop&border_color=30363D&theme=dracula&show_icons=true&icon_color=E11D48&title_color=E11D48&border_radius=0&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=boubaker-boulaid&repo=perfume-online-shop&theme=buefy&border_color=D0D7DE&show_icons=true&title_color=B91C1C&icon_color=B91C1C&border_radius=0&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=boubaker-boulaid&repo=perfume-online-shop&theme=buefy&border_color=D0D7DE&show_icons=true&title_color=B91C1C&icon_color=B91C1C&border_radius=0&bg_color=00000000&hide_border=true" alt="Perfume Online Shop" />
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
