@@ -33,10 +33,10 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/boubaker-boulaid/FlowSync"><img src="assets/flowsync.svg" alt="FlowSync" /></a>
+      <a href="https://github.com/boubaker-boulaid/FlowSync"><img src="assets/flowsync.svg" width="100%" alt="FlowSync" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/boubaker-boulaid/perfume-online-shop"><img src="assets/perfume.svg" alt="Perfume Online Shop" /></a>
+      <a href="https://github.com/boubaker-boulaid/perfume-online-shop"><img src="assets/perfume.svg" width="100%" alt="Perfume Online Shop" /></a>
     </td>
   </tr>
 </table>
@@ -94,6 +94,14 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
     <td align="center" width="98">
       <a href="#tech"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="Node.js" /></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">Laravel</td>
+    <td align="center" width="98">Livewire</td>
+    <td align="center" width="98">React</td>
+    <td align="center" width="98">Node.js</td>
+  </tr>
+  <tr>
     <td align="center" width="98">
       <a href="#tech"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/expressjs-dark.svg" width="48" height="48" alt="Express" /></a>
     </td>
@@ -108,10 +116,6 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
     </td>
   </tr>
   <tr>
-    <td align="center" width="98">Laravel</td>
-    <td align="center" width="98">Livewire</td>
-    <td align="center" width="98">React</td>
-    <td align="center" width="98">Node.js</td>
     <td align="center" width="98">Express</td>
     <td align="center" width="98">Tailwind<br>CSS</td>
     <td align="center" width="98">Bootstrap</td>
@@ -209,7 +213,7 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="#stats"><img src="https://github-readme-stats.vercel.app/api?username=boubaker-boulaid&rank_icon=github&show_icons=true&hide_border=true&bg_color=00000000&title_color=E11D48&icon_color=E11D48&text_color=a3a3a3&count_private=true&include_all_commits=true&hide=issues,contribs" alt="Stats" /></a>
+      <a href="#stats"><img src="https://github-readme-stats.vercel.app/api?username=boubaker-boulaid&rank_icon=github&show_icons=true&hide_border=true&bg_color=00000000&title_color=E11D48&icon_color=E11D48&text_color=a3a3a3&hide=issues,contribs" alt="Stats" /></a>
     </td>
     <td align="center" width="50%">
       <a href="#stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubaker-boulaid&layout=compact&hide_border=true&bg_color=00000000&title_color=E11D48&text_color=a3a3a3&langs_count=8" alt="Top Langs" /></a>
