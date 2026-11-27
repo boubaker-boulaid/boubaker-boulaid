@@ -19,7 +19,6 @@
 Full Stack Web Developer with a passion for turning ideas into real-world, high-performance applications. Focused on clean code, modern architectures, and seamless user experiences. Currently deepening expertise in advanced full-stack development.
 
 - :office: Diploma in **[Digital Development – Full Stack Web](https://www.ofppt.ma/)** (OFPPT – ISTA Mirleft)
-- :shield: I care about **security & testing**: Sanctum auth, RBAC, rate limiting, Pest/PHPUnit, GitHub Actions CI
 - :round_pushpin: Agadir region, Morocco — **open to remote and relocation**
 
 <h2 align="left" id="social">Connect With Me</h2>
@@ -157,9 +156,6 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
     <td align="center" width="98">
       <a href="#tech"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vercel-dark.svg" width="48" height="48" alt="Vercel" /></a>
     </td>
-    <td align="center" width="98">
-      <a href="#tech"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/render-dark.svg" width="48" height="48" alt="Render" /></a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="98">Git</td>
@@ -168,7 +164,6 @@ Full Stack Web Developer with a passion for turning ideas into real-world, high-
     <td align="center" width="98">Docker</td>
     <td align="center" width="98">Linux</td>
     <td align="center" width="98">Vercel</td>
-    <td align="center" width="98">Render</td>
   </tr>
 </table>
 
